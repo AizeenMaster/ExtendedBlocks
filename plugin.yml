@@ -1,1 +1,6 @@
-
+name: ExtendedBlocks
+version: 1.4.0
+api: 3.28.0
+description: This plugin is officially by Javier—full credit goes to him. I simply updated it and fixed some incompatibility issues, so this is a new, updated version ready for use on your servers to provide new blocks.
+author: AIZEEN x Javier Leon9966
+main: JavierLeon9966\ExtendedBlocks\Main
